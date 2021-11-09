@@ -8,7 +8,6 @@ This respository is a simple project for using SwiftSignalRClient from CocoaPod.
 - https://blog.3d-logic.com/2019/07/28/swift-client-for-the-asp-net-core-version-of-signalr-part-1-getting-started/
 - https://www.youtube.com/watch?v=wxfGVuIWexk
 - https://medium.com/@siddharthshah199/signalr-swift-in-objective-c-project-95847a2292bd
-- 
 
 ### Test Project by Lee McCormick
 Learning Switf and Xcode is my passion. This project was built by following the tutorial and source code online.
